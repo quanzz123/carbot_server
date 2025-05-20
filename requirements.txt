@@ -1,0 +1,6 @@
+Flask
+flask-cors
+sentence-transformers
+faiss-cpu
+requests
+mysql-connector-python
